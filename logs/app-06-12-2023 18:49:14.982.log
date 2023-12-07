@@ -1,0 +1,108 @@
+2023-12-06 18:49:15,146 INFO c.s.h.m.Zoo [main] The capacity of the zoo is of 50 customers
+2023-12-06 18:49:15,150 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-06 18:49:15,150 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-06 18:49:15,150 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-06 18:49:15,151 INFO c.s.h.m.Customer [main] I can walk down the streets from the Zoo!
+2023-12-06 18:49:15,151 INFO c.s.h.m.Customer [main] I can walk down the streets from the Zoo!
+2023-12-06 18:49:15,151 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-06 18:49:15,151 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-06 18:49:15,152 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-06 18:49:15,155 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-12-06 18:49:15,155 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-12-06 18:49:15,155 INFO c.s.h.m.Bird [main] I like sleeping in branches from trees!
+2023-12-06 18:49:15,156 INFO c.s.h.m.Bird [main] I like sleeping in branches from trees!
+2023-12-06 18:49:15,156 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-12-06 18:49:15,158 INFO c.s.h.Main [main] There are 4 Animals
+2023-12-06 18:49:15,160 INFO c.s.h.Main [main] Insert two integer numbers
+2023-12-06 18:49:15,161 INFO c.s.h.Main [main] The result of the sum is 12
+2023-12-06 18:49:15,162 ERROR c.s.h.Main [main] Age cannot be negative
+com.solvd.homework11.exceptions.NegativeValueException: Age cannot be negative
+	at com.solvd.homework11.models.Person.setAge(Person.java:49) ~[classes/:?]
+	at com.solvd.homework11.Main.main(Main.java:144) [classes/:?]
+2023-12-06 18:49:15,176 INFO c.s.h.Main [main] Current age of Louis is 40
+2023-12-06 18:49:15,196 INFO c.s.h.Main [main] There are 50 unique words.
+2023-12-06 18:49:15,199 INFO c.s.h.Main [main] The employees over 25 years old are: 
+2023-12-06 18:49:15,199 INFO c.s.h.Main [main] Alvaro Rodriguez
+2023-12-06 18:49:15,200 INFO c.s.h.Main [main] Karen Lopez
+2023-12-06 18:49:15,200 INFO c.s.h.Main [main] The person's ages are: 
+2023-12-06 18:49:15,201 INFO c.s.h.Main [main] 24
+2023-12-06 18:49:15,201 INFO c.s.h.Main [main] 32
+2023-12-06 18:49:15,201 INFO c.s.h.Main [main] 29
+2023-12-06 18:49:15,202 INFO c.s.h.Main [main] 40
+2023-12-06 18:49:15,202 INFO c.s.h.Main [main] 18
+2023-12-06 18:49:15,202 INFO c.s.h.Main [main] 21
+2023-12-06 18:49:15,202 INFO c.s.h.Main [main] 32
+2023-12-06 18:49:15,202 INFO c.s.h.Main [main] 29
+2023-12-06 18:49:15,203 INFO c.s.h.Main [main] The created zoo is called International Zoo
+2023-12-06 18:49:15,204 INFO c.s.h.Main [main] The ages of the persons squared are: 
+2023-12-06 18:49:15,204 INFO c.s.h.Main [main] 576
+2023-12-06 18:49:15,204 INFO c.s.h.Main [main] 1024
+2023-12-06 18:49:15,204 INFO c.s.h.Main [main] 841
+2023-12-06 18:49:15,204 INFO c.s.h.Main [main] 1600
+2023-12-06 18:49:15,205 INFO c.s.h.Main [main] 324
+2023-12-06 18:49:15,205 INFO c.s.h.Main [main] 441
+2023-12-06 18:49:15,205 INFO c.s.h.Main [main] 1024
+2023-12-06 18:49:15,205 INFO c.s.h.Main [main] 841
+2023-12-06 18:49:15,208 INFO c.s.h.Main [main] This is concatenation
+2023-12-06 18:49:15,209 INFO c.s.h.Main [main] The result of the sum is 56.36
+2023-12-06 18:49:15,210 INFO c.s.h.Main [main] The created habitat is called Savanna
+2023-12-06 18:49:15,212 INFO c.s.h.Main [main] Alvaro
+2023-12-06 18:49:15,212 INFO c.s.h.Main [main] Karen
+2023-12-06 18:49:15,213 INFO c.s.h.Main [main] John Doe
+2023-12-06 18:49:15,213 INFO c.s.h.Main [main] Alvaro Rodriguez
+2023-12-06 18:49:15,214 INFO c.s.h.Main [main] Louis Rose
+2023-12-06 18:49:15,214 INFO c.s.h.Main [main] Viktor Solis
+2023-12-06 18:49:15,216 INFO c.s.h.Main [main] 4 employees earn more than 1700 
+2023-12-06 18:49:15,217 INFO c.s.h.Main [main] false
+2023-12-06 18:49:15,218 INFO c.s.h.Main [main] Karen
+2023-12-06 18:49:15,218 INFO c.s.h.Main [main] 1 female person has a name that starts with K
+2023-12-06 18:49:15,219 INFO c.s.h.Main [main] 2000.0
+2023-12-06 18:49:15,220 INFO c.s.h.Main [main] 1800.0
+2023-12-06 18:49:15,220 INFO c.s.h.Main [main] 2300.0
+2023-12-06 18:49:15,221 INFO c.s.h.Main [main] Forest
+2023-12-06 18:49:15,221 INFO c.s.h.Main [main] Forest
+2023-12-06 18:49:15,222 INFO c.s.h.Main [main] Are all the mexicans over 23 years old? false
+2023-12-06 18:49:15,222 INFO c.s.h.Main [main] Fields from the class Person are:
+2023-12-06 18:49:15,223 INFO c.s.h.Main [main] Logger LOGGER
+2023-12-06 18:49:15,223 INFO c.s.h.Main [main] String id
+2023-12-06 18:49:15,223 INFO c.s.h.Main [main] int age
+2023-12-06 18:49:15,223 INFO c.s.h.Main [main] String firstName
+2023-12-06 18:49:15,223 INFO c.s.h.Main [main] String lastName
+2023-12-06 18:49:15,223 INFO c.s.h.Main [main] Gender gender
+2023-12-06 18:49:15,223 INFO c.s.h.Main [main] Country country
+2023-12-06 18:49:15,224 INFO c.s.h.Main [main] The constructors from the class Person are:
+2023-12-06 18:49:15,224 INFO c.s.h.Main [main] Name of constructor: com.solvd.homework11.models.Person and the paremeter's types are:String int String String Gender Country
+2023-12-06 18:49:15,224 INFO c.s.h.Main [main] Methods from the class Person are:
+2023-12-06 18:49:15,230 INFO c.s.h.Main [main] public final void sleep 
+2023-12-06 18:49:15,231 INFO c.s.h.Main [main] public String getId 
+2023-12-06 18:49:15,231 INFO c.s.h.Main [main] public abstract void walk 
+2023-12-06 18:49:15,231 INFO c.s.h.Main [main] public Country getCountry 
+2023-12-06 18:49:15,232 INFO c.s.h.Main [main] public void setGender  - The parameters are of type: Gender 
+2023-12-06 18:49:15,232 INFO c.s.h.Main [main] public final void breath 
+2023-12-06 18:49:15,232 INFO c.s.h.Main [main] public final void eat 
+2023-12-06 18:49:15,232 INFO c.s.h.Main [main] public void setAge  - The parameters are of type: int 
+2023-12-06 18:49:15,233 INFO c.s.h.Main [main] public int getAge 
+2023-12-06 18:49:15,233 INFO c.s.h.Main [main] public Gender getGender 
+2023-12-06 18:49:15,233 INFO c.s.h.Main [main] public String getFirstName 
+2023-12-06 18:49:15,233 INFO c.s.h.Main [main] public String getLastName 
+2023-12-06 18:49:15,233 INFO c.s.h.Main [main] public void setId  - The parameters are of type: String 
+2023-12-06 18:49:15,236 INFO c.s.h.Main [main] public void setFirstName  - The parameters are of type: String 
+2023-12-06 18:49:15,236 INFO c.s.h.Main [main] public void setLastName  - The parameters are of type: String 
+2023-12-06 18:49:15,237 INFO c.s.h.Main [main] public void setCountry  - The parameters are of type: Country 
+2023-12-06 18:49:15,246 INFO c.s.h.m.Bird [main] I like sleeping in branches from trees!
+2023-12-06 18:49:15,247 INFO c.s.h.t.MyThread [Thread-0] Thread Thread-0 running
+2023-12-06 18:49:15,249 INFO c.s.h.Main [Thread-1] Thread Thread-1 running
+2023-12-06 18:49:15,259 INFO c.s.h.u.ConnectionPool [pool-2-thread-1] pool-2-thread-1 could get the connection
+2023-12-06 18:49:19,261 INFO c.s.h.Main [main] Connection released!
+2023-12-06 18:49:19,263 INFO c.s.h.u.ConnectionPool [pool-2-thread-2] pool-2-thread-2 could get the connection
+2023-12-06 18:49:23,265 INFO c.s.h.Main [main] Connection released!
+2023-12-06 18:49:23,267 INFO c.s.h.u.ConnectionPool [pool-2-thread-3] pool-2-thread-3 could get the connection
+2023-12-06 18:49:27,269 INFO c.s.h.Main [main] Connection released!
+2023-12-06 18:49:27,271 INFO c.s.h.u.ConnectionPool [pool-2-thread-4] pool-2-thread-4 could get the connection
+2023-12-06 18:49:31,273 INFO c.s.h.Main [main] Connection released!
+2023-12-06 18:49:31,275 INFO c.s.h.u.ConnectionPool [pool-2-thread-5] pool-2-thread-5 could get the connection
+2023-12-06 18:49:35,277 INFO c.s.h.Main [main] Connection released!
+2023-12-06 18:49:35,279 INFO c.s.h.u.ConnectionPool [pool-2-thread-6] pool-2-thread-6 could get the connection
+2023-12-06 18:49:39,281 INFO c.s.h.Main [main] Connection released!
+2023-12-06 18:49:39,283 INFO c.s.h.u.ConnectionPool [pool-2-thread-7] pool-2-thread-7 could get the connection
+2023-12-06 18:49:43,285 INFO c.s.h.Main [main] Connection released!

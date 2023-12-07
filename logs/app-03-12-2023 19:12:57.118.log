@@ -1,0 +1,61 @@
+2023-12-03 19:12:57,301 INFO c.s.h.m.Zoo [main] The capacity of the zoo is of 50 customers
+2023-12-03 19:12:57,305 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 19:12:57,305 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 19:12:57,305 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 19:12:57,305 INFO c.s.h.m.Customer [main] I can walk down the streets from the Zoo!
+2023-12-03 19:12:57,306 INFO c.s.h.m.Customer [main] I can walk down the streets from the Zoo!
+2023-12-03 19:12:57,306 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 19:12:57,307 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 19:12:57,307 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 19:12:57,307 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-12-03 19:12:57,308 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-12-03 19:12:57,308 INFO c.s.h.m.Bird [main] I like sleeping in branches from trees!
+2023-12-03 19:12:57,308 INFO c.s.h.m.Bird [main] I like sleeping in branches from trees!
+2023-12-03 19:12:57,308 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-12-03 19:12:57,309 INFO c.s.h.Main [main] There are 4 Animals
+2023-12-03 19:12:57,311 INFO c.s.h.Main [main] Insert two integer numbers
+2023-12-03 19:12:57,314 INFO c.s.h.Main [main] The result of the sum is 12
+2023-12-03 19:12:57,315 ERROR c.s.h.Main [main] Age cannot be negative
+com.solvd.homework11.exceptions.NegativeValueException: Age cannot be negative
+	at com.solvd.homework11.models.Person.setAge(Person.java:49) ~[classes/:?]
+	at com.solvd.homework11.Main.main(Main.java:135) [classes/:?]
+2023-12-03 19:12:57,324 INFO c.s.h.Main [main] Current age of Louis is 40
+2023-12-03 19:12:57,342 INFO c.s.h.Main [main] There are 50 unique words.
+2023-12-03 19:12:57,346 INFO c.s.h.Main [main] The employees over 25 years old are: 
+2023-12-03 19:12:57,349 INFO c.s.h.Main [main] Alvaro Rodriguez
+2023-12-03 19:12:57,351 INFO c.s.h.Main [main] Karen Lopez
+2023-12-03 19:12:57,352 INFO c.s.h.Main [main] The person's ages are: 
+2023-12-03 19:12:57,353 INFO c.s.h.Main [main] 24
+2023-12-03 19:12:57,353 INFO c.s.h.Main [main] 32
+2023-12-03 19:12:57,354 INFO c.s.h.Main [main] 29
+2023-12-03 19:12:57,354 INFO c.s.h.Main [main] 40
+2023-12-03 19:12:57,355 INFO c.s.h.Main [main] 18
+2023-12-03 19:12:57,355 INFO c.s.h.Main [main] 21
+2023-12-03 19:12:57,356 INFO c.s.h.Main [main] 32
+2023-12-03 19:12:57,356 INFO c.s.h.Main [main] 29
+2023-12-03 19:12:57,358 INFO c.s.h.Main [main] The created zoo is called International Zoo
+2023-12-03 19:12:57,359 INFO c.s.h.Main [main] The ages of the persons squared are: 
+2023-12-03 19:12:57,359 INFO c.s.h.Main [main] 576
+2023-12-03 19:12:57,360 INFO c.s.h.Main [main] 1024
+2023-12-03 19:12:57,360 INFO c.s.h.Main [main] 841
+2023-12-03 19:12:57,361 INFO c.s.h.Main [main] 1600
+2023-12-03 19:12:57,361 INFO c.s.h.Main [main] 324
+2023-12-03 19:12:57,363 INFO c.s.h.Main [main] 441
+2023-12-03 19:12:57,363 INFO c.s.h.Main [main] 1024
+2023-12-03 19:12:57,363 INFO c.s.h.Main [main] 841
+2023-12-03 19:12:57,376 INFO c.s.h.Main [main] This is concatenation
+2023-12-03 19:12:57,377 INFO c.s.h.Main [main] The result of the sum is 56.36
+2023-12-03 19:12:57,378 INFO c.s.h.Main [main] The created habitat is called Savanna
+2023-12-03 19:12:57,379 INFO c.s.h.Main [main] Alvaro
+2023-12-03 19:12:57,380 INFO c.s.h.Main [main] Karen
+2023-12-03 19:12:57,382 INFO c.s.h.Main [main] John Doe
+2023-12-03 19:12:57,383 INFO c.s.h.Main [main] Alvaro Rodriguez
+2023-12-03 19:12:57,383 INFO c.s.h.Main [main] Louis Rose
+2023-12-03 19:12:57,383 INFO c.s.h.Main [main] Viktor Solis
+2023-12-03 19:12:57,385 INFO c.s.h.Main [main] 4 employees earn more than 1700 
+2023-12-03 19:12:57,387 INFO c.s.h.Main [main] false
+2023-12-03 19:12:57,387 INFO c.s.h.Main [main] Karen
+2023-12-03 19:12:57,388 INFO c.s.h.Main [main] 1 female person has a name that starts with K
+2023-12-03 19:12:57,389 INFO c.s.h.Main [main] 2000.0
+2023-12-03 19:12:57,389 INFO c.s.h.Main [main] 1800.0
+2023-12-03 19:12:57,389 INFO c.s.h.Main [main] 2300.0

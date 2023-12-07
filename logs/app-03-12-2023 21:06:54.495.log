@@ -1,0 +1,89 @@
+2023-12-03 21:06:54,716 INFO c.s.h.m.Zoo [main] The capacity of the zoo is of 50 customers
+2023-12-03 21:06:54,719 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 21:06:54,720 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 21:06:54,720 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 21:06:54,721 INFO c.s.h.m.Customer [main] I can walk down the streets from the Zoo!
+2023-12-03 21:06:54,721 INFO c.s.h.m.Customer [main] I can walk down the streets from the Zoo!
+2023-12-03 21:06:54,722 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 21:06:54,722 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 21:06:54,723 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 21:06:54,723 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-12-03 21:06:54,724 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-12-03 21:06:54,724 INFO c.s.h.m.Bird [main] I like sleeping in branches from trees!
+2023-12-03 21:06:54,725 INFO c.s.h.m.Bird [main] I like sleeping in branches from trees!
+2023-12-03 21:06:54,725 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-12-03 21:06:54,726 INFO c.s.h.Main [main] There are 4 Animals
+2023-12-03 21:06:54,728 INFO c.s.h.Main [main] Insert two integer numbers
+2023-12-03 21:06:54,728 INFO c.s.h.Main [main] The result of the sum is 12
+2023-12-03 21:06:54,733 ERROR c.s.h.Main [main] Age cannot be negative
+com.solvd.homework11.exceptions.NegativeValueException: Age cannot be negative
+	at com.solvd.homework11.models.Person.setAge(Person.java:49) ~[classes/:?]
+	at com.solvd.homework11.Main.main(Main.java:138) [classes/:?]
+2023-12-03 21:06:54,741 INFO c.s.h.Main [main] Current age of Louis is 40
+2023-12-03 21:06:54,763 INFO c.s.h.Main [main] There are 50 unique words.
+2023-12-03 21:06:54,766 INFO c.s.h.Main [main] The employees over 25 years old are: 
+2023-12-03 21:06:54,767 INFO c.s.h.Main [main] Alvaro Rodriguez
+2023-12-03 21:06:54,767 INFO c.s.h.Main [main] Karen Lopez
+2023-12-03 21:06:54,767 INFO c.s.h.Main [main] The person's ages are: 
+2023-12-03 21:06:54,768 INFO c.s.h.Main [main] 24
+2023-12-03 21:06:54,768 INFO c.s.h.Main [main] 32
+2023-12-03 21:06:54,768 INFO c.s.h.Main [main] 29
+2023-12-03 21:06:54,768 INFO c.s.h.Main [main] 40
+2023-12-03 21:06:54,768 INFO c.s.h.Main [main] 18
+2023-12-03 21:06:54,769 INFO c.s.h.Main [main] 21
+2023-12-03 21:06:54,769 INFO c.s.h.Main [main] 32
+2023-12-03 21:06:54,769 INFO c.s.h.Main [main] 29
+2023-12-03 21:06:54,769 INFO c.s.h.Main [main] The created zoo is called International Zoo
+2023-12-03 21:06:54,770 INFO c.s.h.Main [main] The ages of the persons squared are: 
+2023-12-03 21:06:54,770 INFO c.s.h.Main [main] 576
+2023-12-03 21:06:54,770 INFO c.s.h.Main [main] 1024
+2023-12-03 21:06:54,771 INFO c.s.h.Main [main] 841
+2023-12-03 21:06:54,771 INFO c.s.h.Main [main] 1600
+2023-12-03 21:06:54,771 INFO c.s.h.Main [main] 324
+2023-12-03 21:06:54,771 INFO c.s.h.Main [main] 441
+2023-12-03 21:06:54,771 INFO c.s.h.Main [main] 1024
+2023-12-03 21:06:54,771 INFO c.s.h.Main [main] 841
+2023-12-03 21:06:54,775 INFO c.s.h.Main [main] This is concatenation
+2023-12-03 21:06:54,776 INFO c.s.h.Main [main] The result of the sum is 56.36
+2023-12-03 21:06:54,776 INFO c.s.h.Main [main] The created habitat is called Savanna
+2023-12-03 21:06:54,777 INFO c.s.h.Main [main] Alvaro
+2023-12-03 21:06:54,777 INFO c.s.h.Main [main] Karen
+2023-12-03 21:06:54,778 INFO c.s.h.Main [main] John Doe
+2023-12-03 21:06:54,779 INFO c.s.h.Main [main] Alvaro Rodriguez
+2023-12-03 21:06:54,779 INFO c.s.h.Main [main] Louis Rose
+2023-12-03 21:06:54,779 INFO c.s.h.Main [main] Viktor Solis
+2023-12-03 21:06:54,781 INFO c.s.h.Main [main] 4 employees earn more than 1700 
+2023-12-03 21:06:54,783 INFO c.s.h.Main [main] false
+2023-12-03 21:06:54,784 INFO c.s.h.Main [main] Karen
+2023-12-03 21:06:54,785 INFO c.s.h.Main [main] 1 female person has a name that starts with K
+2023-12-03 21:06:54,789 INFO c.s.h.Main [main] 2000.0
+2023-12-03 21:06:54,791 INFO c.s.h.Main [main] 1800.0
+2023-12-03 21:06:54,791 INFO c.s.h.Main [main] 2300.0
+2023-12-03 21:06:54,793 INFO c.s.h.Main [main] Forest
+2023-12-03 21:06:54,794 INFO c.s.h.Main [main] Forest
+2023-12-03 21:06:54,795 INFO c.s.h.Main [main] Are all the mexicans over 23 years old? false
+2023-12-03 21:06:54,795 INFO c.s.h.Main [main] Fields from the class Person are:
+2023-12-03 21:06:54,795 INFO c.s.h.Main [main] Logger LOGGER
+2023-12-03 21:06:54,796 INFO c.s.h.Main [main] String id
+2023-12-03 21:06:54,796 INFO c.s.h.Main [main] int age
+2023-12-03 21:06:54,796 INFO c.s.h.Main [main] String firstName
+2023-12-03 21:06:54,796 INFO c.s.h.Main [main] String lastName
+2023-12-03 21:06:54,796 INFO c.s.h.Main [main] Gender gender
+2023-12-03 21:06:54,796 INFO c.s.h.Main [main] Country country
+2023-12-03 21:06:54,797 INFO c.s.h.Main [main] Methods from the class Person are:
+2023-12-03 21:06:54,797 INFO c.s.h.Main [main] public final sleep  - The parameters are of type: 
+2023-12-03 21:06:54,797 INFO c.s.h.Main [main] public getId  - The parameters are of type: 
+2023-12-03 21:06:54,797 INFO c.s.h.Main [main] public abstract walk  - The parameters are of type: 
+2023-12-03 21:06:54,798 INFO c.s.h.Main [main] public getCountry  - The parameters are of type: 
+2023-12-03 21:06:54,798 INFO c.s.h.Main [main] public setGender  - The parameters are of type: Gender 
+2023-12-03 21:06:54,798 INFO c.s.h.Main [main] public final breath  - The parameters are of type: 
+2023-12-03 21:06:54,798 INFO c.s.h.Main [main] public final eat  - The parameters are of type: 
+2023-12-03 21:06:54,798 INFO c.s.h.Main [main] public setAge  - The parameters are of type: int 
+2023-12-03 21:06:54,799 INFO c.s.h.Main [main] public getAge  - The parameters are of type: 
+2023-12-03 21:06:54,799 INFO c.s.h.Main [main] public getGender  - The parameters are of type: 
+2023-12-03 21:06:54,799 INFO c.s.h.Main [main] public getFirstName  - The parameters are of type: 
+2023-12-03 21:06:54,799 INFO c.s.h.Main [main] public getLastName  - The parameters are of type: 
+2023-12-03 21:06:54,799 INFO c.s.h.Main [main] public setId  - The parameters are of type: String 
+2023-12-03 21:06:54,799 INFO c.s.h.Main [main] public setFirstName  - The parameters are of type: String 
+2023-12-03 21:06:54,799 INFO c.s.h.Main [main] public setLastName  - The parameters are of type: String 
+2023-12-03 21:06:54,800 INFO c.s.h.Main [main] public setCountry  - The parameters are of type: Country 

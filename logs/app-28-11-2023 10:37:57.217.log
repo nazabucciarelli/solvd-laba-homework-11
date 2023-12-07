@@ -1,0 +1,23 @@
+2023-11-28 10:37:57,396 INFO c.s.h.m.Zoo [main] The capacity of the zoo is of 50 customers
+2023-11-28 10:37:57,400 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-11-28 10:37:57,401 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-11-28 10:37:57,402 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-11-28 10:37:57,402 INFO c.s.h.m.Customer [main] I can walk down the streets from the Zoo!
+2023-11-28 10:37:57,403 INFO c.s.h.m.Customer [main] I can walk down the streets from the Zoo!
+2023-11-28 10:37:57,403 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-11-28 10:37:57,403 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-11-28 10:37:57,404 INFO c.s.h.m.Bird [main] I like sleeping in branches from trees!
+2023-11-28 10:37:57,404 INFO c.s.h.m.Bird [main] I like sleeping in branches from trees!
+2023-11-28 10:37:57,404 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-11-28 10:37:57,404 INFO c.s.h.Main [main] There are 4 Animals
+2023-11-28 10:37:57,406 INFO c.s.h.Main [main] Insert two integer numbers
+2023-11-28 10:37:57,407 INFO c.s.h.Main [main] The result of the sum is 12
+2023-11-28 10:37:57,407 ERROR c.s.h.Main [main] Age cannot be negative
+com.solvd.homework11.exceptions.NegativeValueException: Age cannot be negative
+	at com.solvd.homework11.models.Person.setAge(Person.java:49) ~[classes/:?]
+	at com.solvd.homework11.Main.main(Main.java:117) [classes/:?]
+2023-11-28 10:37:57,415 INFO c.s.h.Main [main] Current age of Louis is 40
+2023-11-28 10:37:57,432 INFO c.s.h.Main [main] There are 50 unique words.
+2023-11-28 10:37:57,436 INFO c.s.h.Main [main] The employees over 25 years old are: 
+2023-11-28 10:37:57,437 INFO c.s.h.Main [main] Alvaro Rodriguez
+2023-11-28 10:37:57,437 INFO c.s.h.Main [main] Karen Lopez

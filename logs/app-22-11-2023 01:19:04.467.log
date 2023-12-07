@@ -1,0 +1,20 @@
+2023-11-22 01:19:04,639 INFO m.Zoo [main] The capacity of the zoo is of 50 customers
+2023-11-22 01:19:04,641 INFO m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-11-22 01:19:04,641 INFO m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-11-22 01:19:04,641 INFO m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-11-22 01:19:04,642 INFO m.Customer [main] I can walk down the streets from the Zoo!
+2023-11-22 01:19:04,642 INFO m.Customer [main] I can walk down the streets from the Zoo!
+2023-11-22 01:19:04,642 INFO m.Person [main] I sleep in a bed, during the night!
+2023-11-22 01:19:04,642 INFO m.Person [main] I sleep in a bed, during the night!
+2023-11-22 01:19:04,642 INFO m.Bird [main] I like sleeping in branches from trees!
+2023-11-22 01:19:04,643 INFO m.Bird [main] I like sleeping in branches from trees!
+2023-11-22 01:19:04,643 INFO m.Person [main] I sleep in a bed, during the night!
+2023-11-22 01:19:04,643 INFO com.solvd.homework11.Main [main] There are 4 Animals
+2023-11-22 01:19:04,645 INFO com.solvd.homework11.Main [main] Insert two integer numbers
+2023-11-22 01:19:04,645 INFO com.solvd.homework11.Main [main] The result of the sum is 12
+2023-11-22 01:19:04,646 ERROR com.solvd.homework11.Main [main] Age cannot be negative
+com.solvd.homework11.exceptions.NegativeValueException: Age cannot be negative
+	at com.solvd.homework11.models.Person.setAge(Person.java:49) ~[classes/:?]
+	at com.solvd.homework11.Main.main(com.solvd.homework11.Main.java:116) [classes/:?]
+2023-11-22 01:19:04,655 INFO com.solvd.homework11.Main [main] Current age of Louis is 40
+2023-11-22 01:19:04,673 INFO com.solvd.homework11.Main [main] There are 50 unique words

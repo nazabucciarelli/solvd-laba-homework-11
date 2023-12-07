@@ -1,0 +1,46 @@
+2023-12-03 18:37:08,329 INFO c.s.h.m.Zoo [main] The capacity of the zoo is of 50 customers
+2023-12-03 18:37:08,332 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 18:37:08,333 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 18:37:08,333 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-12-03 18:37:08,333 INFO c.s.h.m.Customer [main] I can walk down the streets from the Zoo!
+2023-12-03 18:37:08,334 INFO c.s.h.m.Customer [main] I can walk down the streets from the Zoo!
+2023-12-03 18:37:08,340 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-12-03 18:37:08,340 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-12-03 18:37:08,340 INFO c.s.h.m.Bird [main] I like sleeping in branches from trees!
+2023-12-03 18:37:08,340 INFO c.s.h.m.Bird [main] I like sleeping in branches from trees!
+2023-12-03 18:37:08,340 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-12-03 18:37:08,341 INFO c.s.h.Main [main] There are 4 Animals
+2023-12-03 18:37:08,343 INFO c.s.h.Main [main] Insert two integer numbers
+2023-12-03 18:37:08,344 INFO c.s.h.Main [main] The result of the sum is 12
+2023-12-03 18:37:08,345 ERROR c.s.h.Main [main] Age cannot be negative
+com.solvd.homework11.exceptions.NegativeValueException: Age cannot be negative
+	at com.solvd.homework11.models.Person.setAge(Person.java:49) ~[classes/:?]
+	at com.solvd.homework11.Main.main(Main.java:135) [classes/:?]
+2023-12-03 18:37:08,361 INFO c.s.h.Main [main] Current age of Louis is 40
+2023-12-03 18:37:08,405 INFO c.s.h.Main [main] There are 50 unique words.
+2023-12-03 18:37:08,414 INFO c.s.h.Main [main] The employees over 25 years old are: 
+2023-12-03 18:37:08,414 INFO c.s.h.Main [main] Alvaro Rodriguez
+2023-12-03 18:37:08,417 INFO c.s.h.Main [main] Karen Lopez
+2023-12-03 18:37:08,417 INFO c.s.h.Main [main] The person's ages are: 
+2023-12-03 18:37:08,421 INFO c.s.h.Main [main] 24
+2023-12-03 18:37:08,421 INFO c.s.h.Main [main] 32
+2023-12-03 18:37:08,421 INFO c.s.h.Main [main] 29
+2023-12-03 18:37:08,421 INFO c.s.h.Main [main] 40
+2023-12-03 18:37:08,421 INFO c.s.h.Main [main] 18
+2023-12-03 18:37:08,422 INFO c.s.h.Main [main] The created zoo is called International Zoo
+2023-12-03 18:37:08,424 INFO c.s.h.Main [main] The ages of the persons squared are: 
+2023-12-03 18:37:08,424 INFO c.s.h.Main [main] 576
+2023-12-03 18:37:08,426 INFO c.s.h.Main [main] 1024
+2023-12-03 18:37:08,426 INFO c.s.h.Main [main] 841
+2023-12-03 18:37:08,426 INFO c.s.h.Main [main] 1600
+2023-12-03 18:37:08,428 INFO c.s.h.Main [main] 324
+2023-12-03 18:37:08,433 INFO c.s.h.Main [main] This is concatenation
+2023-12-03 18:37:08,434 INFO c.s.h.Main [main] The result of the sum is 56.36
+2023-12-03 18:37:08,435 INFO c.s.h.Main [main] The created habitat is called Savanna
+2023-12-03 18:37:08,436 INFO c.s.h.Main [main] Alvaro
+2023-12-03 18:37:08,437 INFO c.s.h.Main [main] Karen
+2023-12-03 18:37:08,439 INFO c.s.h.Main [main] John Doe
+2023-12-03 18:37:08,439 INFO c.s.h.Main [main] Alvaro Rodriguez
+2023-12-03 18:37:08,439 INFO c.s.h.Main [main] Louis Rose
+2023-12-03 18:37:08,439 INFO c.s.h.Main [main] Viktor Solis
+2023-12-03 18:37:08,454 INFO c.s.h.Main [main] 4 employees earn more than 1700 

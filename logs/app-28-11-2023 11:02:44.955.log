@@ -1,0 +1,30 @@
+2023-11-28 11:02:45,103 INFO c.s.h.m.Zoo [main] The capacity of the zoo is of 50 customers
+2023-11-28 11:02:45,106 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-11-28 11:02:45,107 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-11-28 11:02:45,107 INFO c.s.h.m.Employee [main] I can walk down the streets from the Zoo and also enter to only-employees rooms.
+2023-11-28 11:02:45,107 INFO c.s.h.m.Customer [main] I can walk down the streets from the Zoo!
+2023-11-28 11:02:45,107 INFO c.s.h.m.Customer [main] I can walk down the streets from the Zoo!
+2023-11-28 11:02:45,110 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-11-28 11:02:45,110 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-11-28 11:02:45,110 INFO c.s.h.m.Bird [main] I like sleeping in branches from trees!
+2023-11-28 11:02:45,111 INFO c.s.h.m.Bird [main] I like sleeping in branches from trees!
+2023-11-28 11:02:45,112 INFO c.s.h.m.Person [main] I sleep in a bed, during the night!
+2023-11-28 11:02:45,113 INFO c.s.h.Main [main] There are 4 Animals
+2023-11-28 11:02:45,116 INFO c.s.h.Main [main] Insert two integer numbers
+2023-11-28 11:02:45,117 INFO c.s.h.Main [main] The result of the sum is 12
+2023-11-28 11:02:45,117 ERROR c.s.h.Main [main] Age cannot be negative
+com.solvd.homework11.exceptions.NegativeValueException: Age cannot be negative
+	at com.solvd.homework11.models.Person.setAge(Person.java:49) ~[classes/:?]
+	at com.solvd.homework11.Main.main(Main.java:118) [classes/:?]
+2023-11-28 11:02:45,129 INFO c.s.h.Main [main] Current age of Louis is 40
+2023-11-28 11:02:45,145 INFO c.s.h.Main [main] There are 50 unique words.
+2023-11-28 11:02:45,148 INFO c.s.h.Main [main] The employees over 25 years old are: 
+2023-11-28 11:02:45,148 INFO c.s.h.Main [main] Alvaro Rodriguez
+2023-11-28 11:02:45,149 INFO c.s.h.Main [main] Karen Lopez
+2023-11-28 11:02:45,149 INFO c.s.h.Main [main] The person's ages are: 
+2023-11-28 11:02:45,150 INFO c.s.h.Main [main] 24
+2023-11-28 11:02:45,150 INFO c.s.h.Main [main] 32
+2023-11-28 11:02:45,150 INFO c.s.h.Main [main] 29
+2023-11-28 11:02:45,150 INFO c.s.h.Main [main] 40
+2023-11-28 11:02:45,150 INFO c.s.h.Main [main] 18
+2023-11-28 11:02:45,151 INFO c.s.h.Main [main] The created zoo is called International Zoo

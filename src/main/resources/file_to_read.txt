@@ -1,0 +1,10 @@
+A framework is an open-source software platform that provides support for code
+ libraries and scripting languages that developers can use when building
+ websites and applications. In other words, it makes core programming easy.
+ Spring is a lightweight framework that offers an elaborate environment for
+ robust programming and configuration model for Java-based applications.
+ Spring Boot is a java-based framework that is best for creating stand-alone,
+  Spring-based applications in a short period. Both Spring and Spring Boot
+  are used for developing web applications in Java. There is, however,
+  a significant difference between Spring vs Spring Boot.
+
